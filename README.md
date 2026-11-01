@@ -1,6 +1,8 @@
 Wtyczka do aktualizacji list kanałów
 
 Changelog:
+V1.4 - przystosowano wtyczkę pod OpenPLI
+
 v1.3 (beta) - dodano możliwość aktaualizacji pliku satellites xml
             - możliowośc resetu i zmiany hasła do tunera z poziomu wtyczki
 
