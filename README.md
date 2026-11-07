@@ -1,12 +1,14 @@
-Wtyczka do aktualizacji list kanałów
+Wtyczka do aktualizacji list kanałów i nie tylko
 
 Changelog:
+
 v2.1 - informacja o aktualizacji pluginu pojawia się automatycznie po jego włączeniu
 
 v2.0 - przebudowano całkowicie interfejs
      - dodano możliwość generowania bukietów z Rakute, Sweet, TVP VOD
      - dodano możliwość instalowania oscam
      - dodano możliwość ustawienia portu oscam na domyślny 8888
+     
 v1.4 - przystosowano wtyczkę pod OpenPLI
 
 v1.3 (beta) - dodano możliwość aktaualizacji pliku satellites xml
